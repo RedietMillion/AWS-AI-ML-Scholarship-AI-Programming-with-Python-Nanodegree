@@ -24,4 +24,6 @@ Phase 2: The Scholarship Program with Udacity will then award 2,000 students wit
 Phase 3: All graduates from the winter and summer cohorts will be invited to take an assessment. The 500 students with the highest score on the assessment will earn a second Udacity Nanodegree program scholarship to help further prepare them for a career in artificial intelligence and machine learning. Additionally, the top 500 students in the AWS AI & ML Scholarship program will have access to one on one mentorship opportunities from tenured Amazon and Intel machine learning experts to provide career advice.
 
 
-<img src="https://github.com/RedietMillion/AWS-AI-ML-Scholarship-AI-Programming-with-Python-Nanodegree/AWS.PNG" />
+
+
+<img src="https://github.com/RedietMillion/AWS-AI-ML-Scholarship-AI-Programming-with-Python-Nanodegree/blob/main/AWS.PNG" />
